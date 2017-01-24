@@ -17,6 +17,6 @@ hi PreProc guibg=#303030 guifg=#ffffff gui=none
 hi Function guibg=#303030 guifg=#ffffff gui=none
 hi Identifier guibg=#303030 guifg=#ffffff gui=none
 hi LineNr guibg=#303030 guifg=#ffffff gui=none
-hi CursorLine guibg=#e4e4e4
+hi CursorLine guibg=#545454
 hi CursorLineNr guibg=#303030 guifg=#e4e4e4 gui=none
 hi Comment guibg=#ff005f guifg=#ffd7ff gui=bold
