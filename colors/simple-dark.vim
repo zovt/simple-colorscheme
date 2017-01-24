@@ -7,6 +7,7 @@ let colors_name = 'simple-dark'
 set background=dark
 
 hi Normal guibg=#303030 guifg=#ffffff
+hi VertSplit guibg=#545454 guifg=#545454
 hi String guibg=#303030 guifg=#ffffff gui=underline
 hi Constant guibg=#303030 guifg=#ffffff
 hi Statement guibg=#303030 guifg=#ffffff gui=none
